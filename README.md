@@ -1,6 +1,3 @@
-## PRODIDGY_CS-03
-
-
 ## Password Complexity Checker
 
 This is a tool designed to assess the strength of a password based on various criteria such as length, presence of uppercase and lowercase letters, numbers, and special characters. The tool provides users with feedback on their password's strength, helping them create more secure passwords.
